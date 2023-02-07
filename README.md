@@ -1,1 +1,0 @@
-# Concordium-Environment-setup
